@@ -1,4 +1,4 @@
-Flask==1.1.2
+Flask==2.3.2
 numpy==1.19.0
 tensorflow_gpu==2.2.0
 Werkzeug==1.0.1
